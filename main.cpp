@@ -1,3 +1,5 @@
+//https://github.com/YaDmitryE/D.Z.2.2
+
 #include <stdio.h>
 
 int main()
